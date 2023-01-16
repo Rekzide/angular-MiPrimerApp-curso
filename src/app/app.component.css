@@ -1,0 +1,20 @@
+.container {
+  width: 70%;
+  margin: 20pc auto 0 auto;
+  display: flex;
+}
+
+.izquierda {
+width: 40%;
+}
+
+.derecha {
+  width: 60%;
+}
+
+.hover {
+  background-color: lightseagreen;
+}
+.noHover {
+  background-color: lightgoldenrodyellow;
+}
